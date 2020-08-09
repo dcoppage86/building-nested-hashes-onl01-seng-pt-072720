@@ -25,5 +25,12 @@ def third_challenge
         :attitude => "hot-headed"
       }
     ]
+  }, 
+        {
+        :name => "Mercutio",
+        :age => "18",
+        :attitude => "hot-headed"
+      }
+    ]
   },
-  
+end
