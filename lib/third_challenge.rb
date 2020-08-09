@@ -1,5 +1,4 @@
-
-  epic_tragedy = {
+def epic_tragedy = {
    :montague => {
       :patriarch => {
         :name => "Lord Montague",
