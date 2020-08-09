@@ -33,4 +33,5 @@ def third_challenge(epic_tragedy)
       :heroine_friends => [ ]
     }
   }
+end
   
